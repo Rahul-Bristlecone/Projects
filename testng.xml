@@ -6,7 +6,7 @@
             <class name="spsAutomation.ImportPoTest">
                 <methods>
                     <include name="openABS"/>
-                    <include name="Maximize window"/>
+                    <include name="Import PO"/>
                 </methods>
             </class>
         </classes>
