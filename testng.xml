@@ -6,7 +6,7 @@
             <class name="spsAutomation.ImportPoTest">
                 <methods>
                     <include name="openABS"/>
-                    <include name="Import PO"/>
+                    <include name="Send POA"/>
                 </methods>
             </class>
         </classes>
